@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+.fff{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    font-weight: 100px;
+    margin: 120px;
+    text-align: center;
+    width: 600px;
+}
+.fff{
+    border-color: black;
+    border:2px solid ;
+    background-color: white;
+}
+body{
+    padding: 0%;
+    width: 100%;
+background: radial-gradient(#fff,#ffd6d6);
+}
+.ccc{
+  margin-top: 50px;
+  margin-right:50px;
+  margin-left: 50px;
+
+}
+
+div input:hover{
+    width: 200px;
+}
+button::after{
+    color: blue;
+}
